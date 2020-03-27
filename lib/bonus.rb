@@ -21,7 +21,7 @@ def bonus
   }
 
  epic_tragedy[:montague][:hero][]
- epic_tragedy[:capulet][][]
+ epic_tragedy[:capulet][:heroine][]
 
   
 
